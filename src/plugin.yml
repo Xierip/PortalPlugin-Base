@@ -1,0 +1,4 @@
+name: PortalPlugin
+author: Xierip
+version: 0.1
+main: pl.darkelite.portal.PortalPlugin
